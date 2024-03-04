@@ -8,7 +8,7 @@ The code of [Diffusion Language Model]() is in the improved-diffusion/improved_d
 
 ## Overview
 
-This is the official repo for the paper: [Quantized Embedding Vectors for Controllable Diffusion Language Models](https://arxiv.org/pdf/2111.14822.pdf).
+This is the official repo for the paper: [Quantized Embedding Vectors for Controllable Diffusion Language Models](https://arxiv.org/abs/2402.10107).
 
 > QE-Diffusion Controllable LM is based on a Controllable Diffusion Language Model whose latent space is modeled by the 
 > Denoising Diffusion Probabilistic Model (DDPM), constrained by task requirement (such as, topic, grammar, length and 
@@ -206,12 +206,11 @@ For details of the methods and results, please refer to our paper.
 
 
 ```bibtex
-@article{Li-2022-DiffusionLM,
-  title={Diffusion-LM Improves Controllable Text Generation},
-  author={Xiang Lisa Li and John Thickstun and Ishaan Gulrajani and Percy Liang and Tatsunori Hashimoto},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2205.14217}
+@article{kang2024quantized,
+  title={Quantized Embedding Vectors for Controllable Diffusion Language Models},
+  author={Kang, Cheng and Chen, Xinye and Hu, Yong and Novak, Daniel},
+  journal={arXiv preprint arXiv:2402.10107},
+  year={2024}
 }
 ```
 

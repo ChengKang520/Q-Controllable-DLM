@@ -1,0 +1,7 @@
+english
+japanese
+french
+fast food
+italian
+indian
+chinese
